@@ -17,7 +17,7 @@ This individual is a JavaScript (EcmaScript) web developer and data engineer who
 Explore their work:
 
 - [Diego Toro's Homepage](https://decaldas.github.io/home/): A portfolio showcasing their services.
-- [LinkedIn Profile](https://www.linkedin.com/in/tu-perfil-linkedin/): Connect for exciting opportunities.
+- [LinkedIn Profile](https://www.linkedin.com/in/torocardo/): Connect for exciting opportunities.
 
 ## Beyond Technology
 
