@@ -16,7 +16,7 @@ This individual is a JavaScript web developer and data engineer who thrives on c
 
 [![GitHub Streak](https://streak-stats.demolab.com/?user=deCaldas/)](https://git.io/streak-stats)
 
-## Projects and jobs
+### Projects and jobs
 
 Explore their **personal work** in [LinkedIn Profile](https://www.linkedin.com/in/diegowhiskey/details/projects/) or **portfolio** on the landing page [https://decaldas.github.io/home/portfolio](https://decaldas.github.io/home/portfolio): Connect for exciting opportunities.
 
