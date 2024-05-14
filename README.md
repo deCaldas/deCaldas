@@ -12,11 +12,13 @@ This individual is a JavaScript web developer and data engineer who thrives on c
 - Proficiency in Next.js and Node.js
 - A dedicated data engineer with knowledge of Azure and Python
 
+### Streak Stats
+
 [![GitHub Streak](https://streak-stats.demolab.com/?user=deCaldas/)](https://git.io/streak-stats)
 
-## Projects
+## Projects and jobs
 
-Explore their work in [LinkedIn Profile](https://www.linkedin.com/in/diegowhiskey/details/projects/): Connect for exciting opportunities.
+Explore their **personal work** in [LinkedIn Profile](https://www.linkedin.com/in/diegowhiskey/details/projects/) or **portfolio** on the landing page [https://decaldas.github.io/home/portfolio](https://decaldas.github.io/home/portfolio): Connect for exciting opportunities.
 
 ## Beyond Technology
 
