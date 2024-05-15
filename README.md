@@ -14,7 +14,7 @@ This individual is a JavaScript web developer and data engineer who thrives on c
 
 ### Streak Stats
 
-[![GitHub Streak](https://streak-stats.demolab.com/?user=deCaldas/)](https://git.io/streak-stats)
+![GitHub Streak](https://streak-stats.demolab.com/?user=deCaldas/)
 
 ### Projects and jobs
 
