@@ -18,7 +18,7 @@ This individual is a JavaScript web developer and data engineer who thrives on c
 
 ### Projects and jobs
 
-Explore their **personal work** in [LinkedIn Profile](https://www.linkedin.com/in/diegowhiskey/details/projects/) or **portfolio** on the landing page [https://decaldas.github.io/home/portfolio](https://decaldas.github.io/home/portfolio): Connect for exciting opportunities.
+Explore their **personal work** in [LinkedIn Profile](https://www.linkedin.com/in/deCaldas/details/projects/) or **portfolio** on the landing page [https://decaldas.github.io/home/portfolio](https://decaldas.github.io/home/portfolio): Connect for exciting opportunities.
 
 ## Beyond Technology
 
